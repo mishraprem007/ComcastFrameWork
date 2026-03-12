@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-03-06T17:11:53 IST" name="Suite" finished-at="2026-03-06T17:12:23 IST" duration-ms="29787">
+    <groups>
+    </groups>
+    <test started-at="2026-03-06T17:11:53 IST" name="Test" finished-at="2026-03-06T17:12:23 IST" duration-ms="29787">
+      <class name="com.ninjahrm.createemployee.CreateProjectTest">
+        <test-method is-config="true" signature="configBS()[pri:0, instance:com.ninjahrm.createemployee.CreateProjectTest@217ed35e]" started-at="2026-03-06T17:11:53 IST" name="configBS" finished-at="2026-03-06T17:11:53 IST" duration-ms="18" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBS -->
+        <test-method is-config="true" signature="configBT()[pri:0, instance:com.ninjahrm.createemployee.CreateProjectTest@217ed35e]" started-at="2026-03-06T17:11:53 IST" name="configBT" finished-at="2026-03-06T17:11:53 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBT -->
+        <test-method is-config="true" signature="configBC()[pri:0, instance:com.ninjahrm.createemployee.CreateProjectTest@217ed35e]" started-at="2026-03-06T17:11:53 IST" name="configBC" finished-at="2026-03-06T17:11:58 IST" duration-ms="5201" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBC -->
+        <test-method is-config="true" signature="configBM()[pri:0, instance:com.ninjahrm.createemployee.CreateProjectTest@217ed35e]" started-at="2026-03-06T17:11:58 IST" name="configBM" finished-at="2026-03-06T17:11:59 IST" duration-ms="843" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method signature="createProjectandEmployee()[pri:0, instance:com.ninjahrm.createemployee.CreateProjectTest@217ed35e]" started-at="2026-03-06T17:11:59 IST" name="createProjectandEmployee" finished-at="2026-03-06T17:12:21 IST" duration-ms="22109" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createProjectandEmployee -->
+        <test-method is-config="true" signature="configAM()[pri:0, instance:com.ninjahrm.createemployee.CreateProjectTest@217ed35e]" started-at="2026-03-06T17:12:21 IST" name="configAM" finished-at="2026-03-06T17:12:21 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAM -->
+        <test-method is-config="true" signature="configAC()[pri:0, instance:com.ninjahrm.createemployee.CreateProjectTest@217ed35e]" started-at="2026-03-06T17:12:21 IST" name="configAC" finished-at="2026-03-06T17:12:23 IST" duration-ms="1556" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAC -->
+        <test-method is-config="true" signature="configAT()[pri:0, instance:com.ninjahrm.createemployee.CreateProjectTest@217ed35e]" started-at="2026-03-06T17:12:23 IST" name="configAT" finished-at="2026-03-06T17:12:23 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAT -->
+        <test-method is-config="true" signature="configAS()[pri:0, instance:com.ninjahrm.createemployee.CreateProjectTest@217ed35e]" started-at="2026-03-06T17:12:23 IST" name="configAS" finished-at="2026-03-06T17:12:23 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAS -->
+      </class> <!-- com.ninjahrm.createemployee.CreateProjectTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
